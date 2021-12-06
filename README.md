@@ -21,3 +21,12 @@ You can find an example solution [here](https://github.com/mariocuomo/Microsoft-
 
 >Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical, and by golly it's a wonderful problem, because it doesn't look so easy.<br>
 @Richard P. Feynman
+
+
+<br>
+<div align="center">
+  <h3> TAG CLOUD </h3>
+</div>
+<div align="center">
+    <img src="https://github.com/mariocuomo/Microsoft-Q-Advent-Calendar-2021/blob/main/tagcloud.JPG" alt='missing'/>
+</div>
